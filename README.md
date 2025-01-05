@@ -1,5 +1,3 @@
-# Cedrick Andrade
-
 **Aspiring Data Analyst** | Burlington, ON  
 📧 cedrickandrade@outlook.com | 📞 +1 (905)-570-5919  
 [LinkedIn](https://www.linkedin.com/in/cedrick-andrade) | [GitHub](https://github.com/CedrickAndade)
@@ -111,5 +109,3 @@ recognition.
 - Best Paper of Session | Sign Language Translation | NCMRPE-23 |
 
 ---
-
-Feel free to connect or explore my work through my [GitHub](https://github.com/CedrickAndade).
