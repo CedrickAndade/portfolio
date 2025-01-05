@@ -12,21 +12,11 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Python, R, SQL  
-- **Data Science & ML Tools:** Scikit-learn, TensorFlow, Keras, OpenCV, Pandas, NumPy, SciPy  
-- **Data Visualization:** ArcGIS, Power BI, Tableau, Matplotlib, Seaborn, GGplot2  
-- **Data Management:** Google BigQuery, Apache Spark, Docker  
-- **Statistical Techniques:** Regression, Classification, Clustering, Hypothesis Testing, Predictive Modeling  
-
----
-
 ## 🎓 Education
 
 **M.S. Big Data Analytics**  
 *Trent University, ON, Canada*  
-*Sep 2023 - Dec 2024 (Expected)*  
+<span style="float: right;">Sep 2023 - Dec 2024 (Expected)</span>  
 - **GPA:** 4.0  
 - **Capstone Project:** NCC Client Atlas: Immigration Insights  
 - AMOD Work Readiness Training Certificate  
@@ -34,7 +24,7 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 
 **B. Eng. Computer Engineering**  
 *Savitribai Phule Pune University, MH, India*  
-*Jun 2019 - May 2023*  
+<span style="float: right;">Jun 2019 - May 2023</span>  
 - **CGPA:** 8.4/10, First Class with Distinction  
 - **Capstone Project:** Sign Language Translation using Deep Learning  
 
@@ -43,17 +33,20 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 ## 💼 Relevant Experience
 
 ### Graduate Teaching Assistant  
-*Trent University, ON, Canada | Jan 2024 - Dec 2024*  
+*Trent University, ON, Canada*  
+<span style="float: right;">Jan 2024 - Dec 2024</span>  
 - Supported 300+ students in statistical modeling and data analysis using Python, R, and SQL.  
 - Evaluated assignments, quizzes, and created a collaborative Discord server for 700+ students.  
 
 ### Administrative Assistant  
-*Kay 5 Consultants, India | Aug 2020 - Aug 2023*  
+*Kay 5 Consultants, India*  
+<span style="float: right;">Aug 2020 - Aug 2023</span>  
 - Achieved 95% customer satisfaction by optimizing hardware and implementing SQL-based digitization.  
 - Automated reporting processes, reducing manual effort by 30%.  
 
 ### Data Science Intern  
-*SmartKnower Edtech, India | Feb 2022 - Mar 2022*  
+*SmartKnower Edtech, India*  
+<span style="float: right;">Feb 2022 - Mar 2022</span>  
 - Built an income prediction model with 94% accuracy.  
 - Developed a gender classification model using SVM and TensorFlow.  
 
@@ -62,17 +55,17 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 ## 🌟 Projects
 
 ### [NCC Client Atlas: Immigration Insights](https://github.com/CedrickAndade)  
-*Trent University, Sep 2024 - Dec 2024*  
+<span style="float: right;">Sep 2024 - Dec 2024</span>  
 - Visualized immigrant distribution across Canada with ArcGIS and Python.  
 - Designed a dynamic dashboard for real-time data updates.  
 
 ### Compensation and Performance: CEO Pay vs. Company Performance  
-*Trent University, Jun 2024 - Jul 2024*  
+<span style="float: right;">Jun 2024 - Jul 2024</span>  
 - Analyzed CEO pay trends vs. company performance (Apple, NVIDIA, AMD, Microsoft).  
 - Presented insights using Matplotlib and Seaborn.  
 
 ### TensorFlow vs BigQuery: Comparative Analysis  
-*Trent University, Mar 2024 - Apr 2024*  
+<span style="float: right;">Mar 2024 - Apr 2024</span>  
 - Assessed performance of TensorFlow and BigQuery on large datasets.  
 - Recommended tools based on scalability and execution time.  
 
@@ -88,10 +81,10 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 
 ## 📜 Certifications
 
-- Google Business Intelligence | In Progress  
-- Google Data Analytics | Sep 2024  
-- Microsoft & LinkedIn Career Essentials in Generative AI | Apr 2024  
-- LinkedIn Essential Business Communication Skills | Jan 2024  
+- Google Business Intelligence | <span style="float: right;">In Progress</span>  
+- [Google Data Analytics](https://coursera.org/share/9d6ff8913a8ed43c8f5b5f7de49f8881) | <span style="float: right;">Sep 2024</span>  
+- [Microsoft & LinkedIn Career Essentials in Generative AI](https://www.linkedin.com/learning/certificates/79ad4501f822c922c932d84b64b0435e59e71d375e70461e440b718c71367685) | <span style="float: right;">Apr 2024</span>  
+- [LinkedIn Essential Business Communication Skills](https://www.linkedin.com/learning/certificates/40d38cb3e30c908fca6f9a428f352cbf0c64fff8c121b7ff634def0c86de9967) | <span style="float: right;">Jan 2024</span>  
 
 ---
 
