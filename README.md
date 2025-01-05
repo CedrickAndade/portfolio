@@ -84,20 +84,38 @@ recognition.
 
 ## 🌟 Projects
 
-### [NCC Client Atlas: Immigration Insights](https://github.com/CedrickAndade)  
+## 🌟 Projects
+
+### [NCC Client Atlas: Immigration Insights](https://github.com/CedrickAndade/NCC-Client-Atlas)
 <span style="float: right;">Sep 2024 - Dec 2024</span>  
-- Visualized immigrant distribution across Canada with ArcGIS and Python.  
-- Designed a dynamic dashboard for real-time data updates.  
+*Trent University - AMOD 5610Y Capstone Project*  
+- Conducted comprehensive data cleaning and preprocessing for the New Canadians Center's client database to ensure data quality and reliability for analysis.  
+- Analyzed geospatial data to map the distribution of immigrants and refugees across Canada, identifying underserved regions and service gaps.  
+- Designed and developed an interactive and dynamic dashboard using ArcGIS, incorporating Python scripts for automated data cleaning and integration.  
+- Established sustainable data management workflows using SQL, enabling the organization to maintain data consistency as the client base grows.  
+- Presented findings to stakeholders with actionable insights for resource optimization and improved client outreach.  
+
+---
 
 ### Compensation and Performance: CEO Pay vs. Company Performance  
 <span style="float: right;">Jun 2024 - Jul 2024</span>  
-- Analyzed CEO pay trends vs. company performance (Apple, NVIDIA, AMD, Microsoft).  
-- Presented insights using Matplotlib and Seaborn.  
+*Trent University - AMOD 5430H Data Visualization Project*  
+- Conducted an in-depth analysis of CEO compensation trends from 2018-2023 across major corporations like Apple, NVIDIA, AMD, and Microsoft.  
+- Created and curated custom datasets from SEC filings, ensuring accuracy and completeness for the analysis.  
+- Leveraged Python libraries such as Pandas and NumPy for data manipulation and cleaning, and visualized key trends using Matplotlib and Seaborn.  
+- Uncovered significant discrepancies in the alignment of compensation with company performance, especially in Apple and AMD, and highlighted potential corporate governance concerns.  
+- Presented insights through clear and visually engaging graphs, enabling stakeholders to draw conclusions about pay structures and their impacts on corporate outcomes.  
 
-### TensorFlow vs BigQuery: Comparative Analysis  
+---
+
+### [TensorFlow vs BigQuery: Comparative Analysis](https://github.com/CedrickAndade/TensorFlow-vs-BigQuery-A-Comparative-Analysis) 
 <span style="float: right;">Mar 2024 - Apr 2024</span>  
-- Assessed performance of TensorFlow and BigQuery on large datasets.  
-- Recommended tools based on scalability and execution time.  
+*Trent University - AMOD 5410H Big Data Project*  
+- Designed and executed a comparative study to evaluate the performance of TensorFlow and Google BigQuery for handling large-scale data and machine learning tasks.  
+- Processed datasets ranging from 10,000 to over 100,000 data points, analyzing model training, query execution times, and system efficiency.  
+- Highlighted TensorFlow's scalability and ability to handle complex deep learning tasks efficiently, while BigQuery excelled in rapid data querying and analysis, outperforming TensorFlow by 40% for large-scale datasets.  
+- Compiled findings into a detailed report, recommending TensorFlow for deep learning applications and BigQuery for enterprise-level data analytics.  
+- Presented results to peers and faculty, providing actionable recommendations for tool selection based on specific project requirements.  
 
 ---
 
@@ -109,3 +127,5 @@ recognition.
 - Best Paper of Session - Sign Language Translation - NCMRPE-23 
 
 ---
+
+
