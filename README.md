@@ -16,7 +16,7 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 
 **M.S. Big Data Analytics**  
 *Trent University, ON, Canada*  
-<span style="float: right;">Sep 2023 - Dec 2024 (Expected)</span>  
+<span style="float: right;">Sep 2023 - Dec 2024</span>  
 - **GPA:** 4.0  
 - **Capstone Project:** NCC Client Atlas: Immigration Insights  
 - AMOD Work Readiness Training Certificate  
