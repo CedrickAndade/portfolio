@@ -60,7 +60,7 @@ feedback to enhance student proficiency by 20%.
 - Developed and managed a Discord server for 700+ students, fostering a 40% increase in peer collaboration and efficient resource-sharing, demonstrating leadership in community building.
 
 ### Campus Tour Guide
-*Trent University, ON, Canada*
+*Trent University, ON, Canada*  
 <span style="float: right;">Jan 2024 - Dec 2024</span> 
 - Engaged 30+ prospective students per tour, sharing compelling stories about campus life to spark interest and connection.  
 - Delivered tailored guidance to prospective students and families, addressing diverse inquiries with clarity and professionalism to support informed decisions. 
