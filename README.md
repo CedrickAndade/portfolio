@@ -84,8 +84,6 @@ recognition.
 
 ## 🌟 Projects
 
-## 🌟 Projects
-
 ### [NCC Client Atlas: Immigration Insights](https://github.com/CedrickAndade/NCC-Client-Atlas)
 <span style="float: right;">Sep 2024 - Dec 2024</span>  
 *Trent University - AMOD 5610Y Capstone Project*  
