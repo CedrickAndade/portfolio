@@ -31,10 +31,10 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 - **CGPA:** 8.4/10, First Class with Distinction  
 - **Capstone Project:** Sign Language Translation using Deep Learning
 - **Extracurriculars:**
-  - President | Association of Computer Engineering Students
+  - President | Association of Computer Engineering Students |
   - Alumni Student Coordinator
   - Student Placement Coordinator
-  - President | First Year Engineering Students Association
+  - President | First Year Engineering Students Association |
 
 ---
 
@@ -53,9 +53,9 @@ Aspiring Data Analyst with strong foundations in data analysis, statistical mode
 *Trent University, ON, Canada*  
 <span style="float: right;">Jan 2024 - Dec 2024</span>  
 - Course:  
-  - AMOD 5240H Statistical Aspects of Modelling | Winter 2024  
-  - AMOD 5240H Statistical Aspects of Modelling | Fall 2024  
-  - AMOD 5310H Artificial Intelligence | Fall 2024
+  - AMOD 5240H Statistical Aspects of Modelling | Winter 2024 |
+  - AMOD 5240H Statistical Aspects of Modelling | Fall 2024 |
+  - AMOD 5310H Artificial Intelligence | Fall 2024 |
 -  Supported over 300 students in understanding statistical concepts and data analysis techniques using Python, R, and SQL. 
 - Evaluated assignments and quizzes focused on real-world applications of analytics, providing constructive 
 feedback to enhance student proficiency by 20%. 
@@ -64,8 +64,8 @@ feedback to enhance student proficiency by 20%.
 ### Campus Tour Guide
 *Trent University, ON, Canada*
 <span style="float: right;">Jan 2024 - Dec 2024</span> 
-➢ Engaged 30+ prospective students per tour, sharing compelling stories about campus life to spark interest and connection.  
-➢ Delivered tailored guidance to prospective students and families, addressing diverse inquiries with clarity and professionalism to support informed decisions. 
+- Engaged 30+ prospective students per tour, sharing compelling stories about campus life to spark interest and connection.  
+- Delivered tailored guidance to prospective students and families, addressing diverse inquiries with clarity and professionalism to support informed decisions. 
 
 ### Administrative Assistant  
 *Kay 5 Consultants, India*  
@@ -105,9 +105,10 @@ recognition.
 
 ## 🏆 Awards
 
-- Outstanding Alumni 2024 | Sinhgad Academy of Engineering  
-- Best Outgoing Student 2023 | Sinhgad Academy of Engineering  
-- 3rd Place | Sign Language Translation, Project Mania 2k23  
+- Outstanding Alumni 2024 | Sinhgad Academy of Engineering  |
+- Best Outgoing Student 2023 | Sinhgad Academy of Engineering  |
+- 3rd Place | Sign Language Translation | Project Mania 2k23  |
+- Best Paper of Session | Sign Language Translation | NCMRPE-23 |
 
 ---
 
