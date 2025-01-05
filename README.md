@@ -1,6 +1,7 @@
-**Aspiring Data Analyst** | Burlington, ON  
+**Aspiring Data Analyst**  
+Burlington, ON  
 📧 cedrickandrade@outlook.com | 📞 +1 (905)-570-5919  
-[LinkedIn](https://www.linkedin.com/in/cedrick-andrade) | [GitHub](https://github.com/CedrickAndade)
+[LinkedIn](https://www.linkedin.com/in/cedrick-andrade)
 
 ---
 
